@@ -44,6 +44,7 @@ subtitle: Nuestro colectivo / Members
 #### 2004-2006
 - María Segovia Azcorra (Ecología y Geología)
 - Francisco Javier López Gordillo (Ecología y Geología)
+- Leonardo Franco (Lenguajes y Ciencias de la Computación) [Web](http://www.lcc.uma.es/~lfranco/)-[GS](https://scholar.google.es/citations?user=ChMzkqQAAAAJ&hl=es)-[ORCID](http://orcid.org/0000-0003-0012-5914)-[ResearcherID](http://www.researcherid.com/rid/C-3929-2008)-[Scopus](http://www.scopus.com/inward/authorDetails.url?authorID=7101824180&partnerID=MN8TOARS)
 
 #### 2004
 - Ana Grande Pérez (Biología Celular, Genética y Fisiología)
